@@ -4,7 +4,24 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/exam3_13/Main.java" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfec2be5-df08-4f5c-ad03-c551c2bf5506" name="Default Changelist" comment="" />
+    <list default="true" id="bfec2be5-df08-4f5c-ad03-c551c2bf5506" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/JDKBookProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/RealBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Main.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,34 +36,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Book.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/RealBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="196">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/JDKBookProxy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="280">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,10 +63,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="196">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -75,22 +83,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/SingletonDesign/Singleton2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingletonDesign/Singleton3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingletonDesign/Singleton4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingletonDesign/Singleton5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FactoryDesign/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FactoryDesign/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FactoryDesign/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FactoryDesign/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FactoryDesign/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingletonDesign/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FactoryDesign/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FactoryDesign/SimpleFacotry/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/SimpleFacotry/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/factoryDesign/simpleFacotry/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/Iphone.java" />
         <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/AbstractFactory.java" />
@@ -117,9 +115,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/SmartChild.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/ProxyChild.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookFunction.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookProxyFacotry.java" />
@@ -129,6 +124,22 @@
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/RealBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/JDKBookProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Father.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Son.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/HelloService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/My.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java" />
       </list>
     </option>
   </component>
@@ -152,6 +163,9 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="515" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -198,13 +212,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ProxyPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="denamicProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="cglibDenamicProxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exam" type="b2602c69:ProjectViewProjectNode" />
               <item name="exam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProxyPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="JDKDenamicProxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,6 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/factoryDesign/mixedFactoryMethod" />
@@ -244,19 +262,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.staticProxy.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProxyPattern.staticProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProxyPattern.staticProxy2.Main" />
       <module name="exam" />
@@ -270,9 +275,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam3_13.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Main" />
       <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -283,6 +294,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="strategyPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProxyPattern.JDKDenamicProxy.Main" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProxyPattern.JDKDenamicProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,11 +328,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.JDKDenamicProxy.Main" />
+      <option name="MAIN_CLASS_NAME" value="ProxyPattern.cglibDenamicProxy.Main" />
       <module name="exam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProxyPattern.JDKDenamicProxy.*" />
+          <option name="PATTERN" value="ProxyPattern.cglibDenamicProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,10 +402,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -409,12 +433,12 @@
       <workItem from="1585368462486" duration="45000" />
       <workItem from="1585368637846" duration="2339000" />
       <workItem from="1585373314806" duration="16459000" />
-      <workItem from="1585456958337" duration="8786000" />
+      <workItem from="1585456958337" duration="21545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61127000" />
+    <option name="totallyTimeSpent" value="73886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -430,8 +454,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37906647" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33097595" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30736545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33002833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -440,7 +464,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -459,95 +483,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/singletonPattern/Singleton4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singletonPattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singletonPattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singletonPattern/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/pojo/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/pojo/Iphone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/pojo/MiPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/factory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -702,65 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/ProxyChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -810,40 +686,211 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Book.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="168">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/RealBook.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="140">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/JDKBookProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="196">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/ProxyChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>

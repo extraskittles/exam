@@ -2,7 +2,7 @@ package ProxyPattern.JDKDenamicProxy;
 
 public class RealBook implements Book{
     public void addBook() {
-        System.out.println("添加书");
+        System.out.println("增加书");
     }
 
     public void deleteBook() {
