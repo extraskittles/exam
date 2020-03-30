@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfec2be5-df08-4f5c-ad03-c551c2bf5506" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/JDKBookProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/denamicProxy/RealBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/Father.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/Son.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,44 +22,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,21 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/simpleFacotry/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/Iphone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/AppleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/MiFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/pojo/Iphone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/pojo/MiPhone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/IphoneFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/MiFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/facotryMethod/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/pojo/MiPhone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/pojo/Iwatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/pojo/MiWatch.java" />
         <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/factory/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/factory/AppleFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/factoryDesign/abstractFactory/factory/MiFactory.java" />
@@ -125,9 +61,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/JDKBookProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Father.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Son.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java" />
@@ -140,6 +73,24 @@
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/My.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/Border.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/GroudBuy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/Aorder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/AorderAdatper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/AorderAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Retangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Father.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Son.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/AbstractDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/RedDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Main.java" />
       </list>
     </option>
   </component>
@@ -203,25 +154,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ProxyPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ProxyPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="cglibDenamicProxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ProxyPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="JDKDenamicProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="DecoratorPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,13 +194,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.staticProxy2.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecoratorPattern.Main" />
       <module name="exam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProxyPattern.staticProxy2.*" />
+          <option name="PATTERN" value="DecoratorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProxyPattern.staticProxy2.Main" />
       <module name="exam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="ProxyPattern.staticProxy2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,6 +274,32 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adapterPattern.Main" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adapterPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Main" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factoryDesign.simpleFacotry.Main" />
       <module name="exam" />
       <extension name="coverage">
@@ -392,20 +351,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExam" />
-      <module name="exam" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -433,18 +385,25 @@
       <workItem from="1585368462486" duration="45000" />
       <workItem from="1585368637846" duration="2339000" />
       <workItem from="1585373314806" duration="16459000" />
-      <workItem from="1585456958337" duration="21545000" />
+      <workItem from="1585456958337" duration="28329000" />
     </task>
+    <task id="LOCAL-00001" summary="增加动态代理练习">
+      <created>1585498892800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585498892800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73886000" />
+    <option name="totallyTimeSpent" value="80670000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24530831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24530831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,13 +413,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30736545" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42917848" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33002833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -482,102 +441,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加动态代理练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加动态代理练习" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Phone.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Iphone.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/MiPhone.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Watch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Iwatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/MiWatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/factory/MiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/factory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/factory/IphoneFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/factory/MiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -714,37 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/ProxyChild.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -877,6 +714,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -887,10 +731,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/AorderAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/GroudBuy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/Border.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/Aorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/AbstractDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/RedDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
