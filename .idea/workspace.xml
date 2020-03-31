@@ -19,10 +19,77 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/LeaderHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ManagerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/BossHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ChainHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -45,19 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Activity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Child.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/SmartChild.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/ProxyChild.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookFunction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookProxyFacotry.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookProxyFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Book.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/RealBook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/JDKBookProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" />
@@ -96,6 +150,19 @@
         <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/BinaryObserver.java" />
         <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/OctalObserver.java" />
         <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ConsoleLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ErrorLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/FileLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ChainPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractHander.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/LeaderHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ManagerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/BossHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ChainHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandler.java" />
       </list>
     </option>
   </component>
@@ -159,7 +226,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ObserverPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="chainPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,6 +243,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/factoryDesign/mixedFactoryMethod" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.39367312" />
@@ -199,7 +267,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainPattern.ChainPatternDemo" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chainPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecoratorPattern.Main" />
       <module name="exam" />
@@ -239,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategyPattern.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainPattern.Main" />
       <module name="exam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategyPattern.*" />
+          <option name="PATTERN" value="chainPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +334,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.JDKDenamicProxy.Main" />
+      <option name="MAIN_CLASS_NAME" value="strategyPattern.Main" />
       <module name="exam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProxyPattern.JDKDenamicProxy.*" />
+          <option name="PATTERN" value="strategyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,11 +452,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.ChainPatternDemo" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +484,7 @@
       <workItem from="1585368462486" duration="45000" />
       <workItem from="1585368637846" duration="2339000" />
       <workItem from="1585373314806" duration="16459000" />
-      <workItem from="1585456958337" duration="31826000" />
+      <workItem from="1585456958337" duration="39934000" />
     </task>
     <task id="LOCAL-00001" summary="增加动态代理练习">
       <created>1585498892800</created>
@@ -416,13 +497,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84167000" />
+    <option name="totallyTimeSpent" value="92275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24530831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24530831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,8 +513,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42776203" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.52691215" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41218132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5184136" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -464,86 +545,19 @@
     <MESSAGE value="增加动态代理练习" />
     <option name="LAST_COMMIT_MESSAGE" value="增加动态代理练习" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chainPattern/Main.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/factory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/factory/MiFactory.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/pojo/MiPhone.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/factory/AbstractFactoryProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK/lib/src.zip!/java.base/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1227">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/BookProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -916,8 +930,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/FileLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ErrorLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ChainPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ConsoleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/BossHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/LeaderHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ChainHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ManagerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
