@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="Framework.Mybatis.dao.UserMapper">
+    <cache eviction="LRU" flushInterval="60000" size="512" readOnly="true"/>
+    <resultMap id="userMap" type="User">
+        <id property="id" column="id"></id>
+        <result property="name" column="name"></result>
+        <result property="address" column="address"></result>
+    </resultMap>
+    <select id="select" parameterType="int" resultType="User">
+    SELECT * FROM user where id=#{id}
+    </select>
+    <select id="selectAllUser" resultType="User">
+    SELECT * FROM user
+    </select>
+    <select id="selectAllUserByPage" resultType="User">
+    SELECT * FROM user
+    </select>
+    <select id="selectAllByPage" resultType="User">
+    SELECT * FROM user
+    </select>
+    <insert id="insert" parameterType="User">
+        INSERT INTO user (name,address)VALUES(#{name},#{address})
+    </insert>
+</mapper>

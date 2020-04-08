@@ -2,9 +2,173 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/main/java/exam3_13/Main.java" line="38" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/Framework/JDBC/connectionPool/ConnectionPool.java" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfec2be5-df08-4f5c-ad03-c551c2bf5506" name="Default Changelist" comment="增加装饰者模式" />
+    <list default="true" id="bfec2be5-df08-4f5c-ad03-c551c2bf5506" name="Default Changelist" comment="增加装饰者模式">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DecoratorPattern/AbstractDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/DecoratorPattern/AbstractDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DecoratorPattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/DecoratorPattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DecoratorPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/DecoratorPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DecoratorPattern/RedDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/DecoratorPattern/RedDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DecoratorPattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/DecoratorPattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DecoratorPattern/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/DecoratorPattern/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/AbstractObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ObserverPattern/AbstractObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ObserverPattern/BinaryObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ObserverPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/Matter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ObserverPattern/Matter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ObserverPattern/OctalObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/RealBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/cglibDenamicProxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/cglibDenamicProxy/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/staticProxy/Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/staticProxy/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/staticProxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/ProxyChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/staticProxy/ProxyChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/staticProxy2/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/staticProxy2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/staticProxy2/ProxyChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapterPattern/Aorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/adapterPattern/Aorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapterPattern/AorderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/adapterPattern/AorderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapterPattern/Border.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/adapterPattern/Border.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapterPattern/GroudBuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/adapterPattern/GroudBuy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/adapterPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/adapterPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/chainPattern/AbstractHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainPattern/BossHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/chainPattern/BossHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainPattern/ChainHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/chainPattern/ChainHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainPattern/LeaderHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/chainPattern/LeaderHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/chainPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainPattern/ManagerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/chainPattern/ManagerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/factory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/factory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/factory/AppleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/factory/AppleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/factory/MiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/factory/MiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/pojo/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Iwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/pojo/Iwatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/MiPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/pojo/MiPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/MiWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/pojo/MiWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/pojo/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/abstractFactory/pojo/Watch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/abstractFactory/pojo/Watch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/facotryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/factory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/facotryMethod/factory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/factory/IphoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/facotryMethod/factory/IphoneFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/factory/MiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/facotryMethod/factory/MiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/pojo/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/facotryMethod/pojo/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/pojo/MiPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/facotryMethod/pojo/MiPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/facotryMethod/pojo/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/facotryMethod/pojo/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/factory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/factory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/factory/AbstractFactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/factory/AbstractFactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/factory/IphoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/factory/IphoneFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/factory/MiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/factory/MiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/pojo/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/pojo/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/pojo/MiPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/pojo/MiPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/mixedFactoryMethod/pojo/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/mixedFactoryMethod/pojo/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/simpleFacotry/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/simpleFacotry/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/simpleFacotry/pojo/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/simpleFacotry/pojo/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/simpleFacotry/pojo/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factoryPattern/simpleFacotry/pojo/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/factoryPattern/simpleFacotry/pojo/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/singletonPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/singletonPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/singletonPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/singletonPattern/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/singletonPattern/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/singletonPattern/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/singletonPattern/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/singletonPattern/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/singletonPattern/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/singletonPattern/Singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/singletonPattern/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/singletonPattern/Singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategyPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/strategyPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategyPattern/Service/ServiceImpl/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/strategyPattern/Service/ServiceImpl/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategyPattern/approval/CeoApproval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/strategyPattern/approval/CeoApproval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategyPattern/approval/DirectorApproval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/strategyPattern/approval/DirectorApproval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategyPattern/approval/MangerApproval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/strategyPattern/approval/MangerApproval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategyPattern/approval/UserApproval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPattern/strategyPattern/approval/UserApproval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DecoratorPattern/AbstractDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DecoratorPattern/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DecoratorPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DecoratorPattern/RedDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DecoratorPattern/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DecoratorPattern/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/AbstractObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/BinaryObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/Matter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ObserverPattern/OctalObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/JDKDenamicProxy/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/JDKDenamicProxy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/JDKDenamicProxy/RealBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/cglibDenamicProxy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/cglibDenamicProxy/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy/Activity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy/ProxyChild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProxyPattern/staticProxy2/ProxyChild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapterPattern/Aorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapterPattern/AorderAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapterPattern/Border.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapterPattern/GroudBuy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adapterPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainPattern/AbstractHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainPattern/BossHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainPattern/ChainHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainPattern/LeaderHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainPattern/ManagerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/factory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/factory/AppleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/factory/MiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/pojo/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/pojo/Iwatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/pojo/MiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/pojo/MiWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/pojo/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/abstractFactory/pojo/Watch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/facotryMethod/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/facotryMethod/factory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/facotryMethod/factory/IphoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/facotryMethod/factory/MiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/facotryMethod/pojo/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/facotryMethod/pojo/MiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/facotryMethod/pojo/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/factory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/factory/AbstractFactoryProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/factory/IphoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/factory/MiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/pojo/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/pojo/MiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/mixedFactoryMethod/pojo/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/simpleFacotry/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/simpleFacotry/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/simpleFacotry/pojo/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/simpleFacotry/pojo/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/simpleFacotry/pojo/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factoryPattern/simpleFacotry/pojo/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Singleton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Singleton3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Singleton4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Singleton4$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Singleton4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singletonPattern/Singleton5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategyPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategyPattern/Service/ServiceImpl/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategyPattern/approval/CeoApproval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategyPattern/approval/DirectorApproval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategyPattern/approval/MangerApproval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategyPattern/approval/UserApproval.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,83 +177,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandler.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/CachingExecutor.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="184">
+              <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
               <folding>
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#4672#4673#0" expanded="true" />
+                <element signature="e#4726#4727#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/LeaderHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ManagerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/BossHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ChainHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -101,10 +216,45 @@
       <list>
         <option value="Enum" />
         <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mapperMethod</find>
+      <find>execute</find>
+      <find>select</find>
+      <find>pagest</find>
+      <find>exec</find>
+      <find>Call</find>
+      <find>newP</find>
+      <find>sett</find>
+      <find>statemen</find>
+      <find>type</find>
+      <find>ali</find>
+      <find>pare</find>
+      <find>delegate</find>
+      <find>dele</find>
+      <find>gate</find>
+      <find>mappedS</find>
+      <find>sql</find>
+      <find>boundS</find>
+      <find>getParameterO</find>
+      <find>setNu</find>
+      <find>proxy</find>
+      <find>boundq</find>
+      <find>cac</find>
+      <find>gets</find>
+      <find>c</find>
+      <find>XMLm</find>
+      <find>query</find>
+      <find>getC</find>
+      <find>getLoc</find>
+      <find>cache</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,57 +262,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/denamicProxy/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/HelloService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Book.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/My.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/Border.java" />
-        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/GroudBuy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/Aorder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/AorderAdatper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/adapterPattern/AorderAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Retangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Father.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test/Son.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/AbstractDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/RedDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DecoratorPattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/BinnaryObserver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/Matter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/AbstractObserver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/BinaryObserver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/OctalObserver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ObserverPattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ConsoleLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ErrorLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/FileLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ChainPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractHander.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/LeaderHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ManagerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/BossHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/ChainHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/templatePattern/FootBall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/templatePattern/BasketBall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/templatePattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/templatePattern/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MVCPattern/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MVCPattern/View.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MVCPattern/StudentContoller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MVCPattern/StudentContRoller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MVCPattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JDBC/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/JDBC/connectionPool/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MVCadapter/BenaNameControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/MybatisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis2/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis2/MybatisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis2/MybatisDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JDBC/single/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/pojo/People.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/dao/PeopleMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/MybatisDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mybatis/MyTypeHandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/MybatisPageHelper/util/MybatisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/MybatisPageHelper/mapper/PeopleMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/MybatisPageHelper/mapper/PeopleMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/MybatisPageHelper/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaSe/multithreading/ShareObj.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/paging/TestRowBounds.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/util/MyPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/TestMeta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyPagePlugin2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyPagePlugin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/MybatisDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/pojo/People.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Framework/Mybatis/cache/testCache.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mappers/PeopleMapper.xml" />
       </list>
     </option>
   </component>
@@ -180,12 +330,25 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="exam" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="10" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="960" />
-    <option name="height" value="515" />
+    <option name="x" value="-6" />
+    <option name="y" value="-6" />
+    <option name="width" value="1080" />
+    <option name="height" value="580" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -195,6 +358,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,31 +390,109 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chainPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/factoryDesign/mixedFactoryMethod" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Framework/MybatisPageHelper" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.39367312" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\extra\Java-project\exam\src\main\resources\mappers" />
+      <recent name="C:\Users\extra\Java-project\exam\src\main\java\Mybatis\mapper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\extra\Java-project\exam\src\main\java\Framework\MybatisPageHelper" />
+      <recent name="C:\Users\extra\Java-project\exam\src\main\java\Mybatis2" />
+      <recent name="C:\Users\extra\Java-project\exam\src\main\java\Mybatis\mapper" />
       <recent name="C:\Users\extra\Java-project\exam\src\main\java\factoryDesign\mixedFactoryMethod" />
       <recent name="C:\Users\extra\Java-project\exam\src\main\java\factoryDesign\abstractFactory" />
     </key>
@@ -267,150 +509,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chainPattern.ChainPatternDemo" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chainPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecoratorPattern.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecoratorPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.staticProxy2.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProxyPattern.staticProxy2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObserverPattern.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObserverPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chainPattern.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chainPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategyPattern.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strategyPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factoryPattern.mixedFactoryMethod.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factoryPattern.mixedFactoryMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.cglibDenamicProxy.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProxyPattern.cglibDenamicProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adapterPattern.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="adapterPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factoryDesign.simpleFacotry.Main" />
-      <module name="exam" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factoryDesign.simpleFacotry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.testCache.testInsert">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singletonDesign.Main" />
       <module name="exam" />
@@ -450,13 +549,93 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisDemo.testCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Framework.Mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Framework.Mybatis" />
+      <option name="MAIN_CLASS_NAME" value="Framework.Mybatis.MybatisDemo" />
+      <option name="METHOD_NAME" value="testCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisDemo.testMybatis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Framework.Mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Framework.Mybatis" />
+      <option name="MAIN_CLASS_NAME" value="Framework.Mybatis.MybatisDemo" />
+      <option name="METHOD_NAME" value="testMybatis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCache.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Framework.Mybatis.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Framework.Mybatis.cache" />
+      <option name="MAIN_CLASS_NAME" value="Framework.Mybatis.cache.testCache" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCache.testInser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Framework.Mybatis.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Framework.Mybatis.cache" />
+      <option name="MAIN_CLASS_NAME" value="Framework.Mybatis.cache.testCache" />
+      <option name="METHOD_NAME" value="testInser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCache.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Framework.Mybatis.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Framework.Mybatis.cache" />
+      <option name="MAIN_CLASS_NAME" value="Framework.Mybatis.cache.testCache" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.ChainPatternDemo" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="JUnit.testCache.testInsert" />
+        <item itemvalue="JUnit.testCache.testInser" />
+        <item itemvalue="JUnit.testCache.test" />
+        <item itemvalue="JUnit.MybatisDemo.testMybatis" />
+        <item itemvalue="JUnit.MybatisDemo.testCache" />
       </list>
     </recent_temporary>
   </component>
@@ -484,7 +663,26 @@
       <workItem from="1585368462486" duration="45000" />
       <workItem from="1585368637846" duration="2339000" />
       <workItem from="1585373314806" duration="16459000" />
-      <workItem from="1585456958337" duration="39934000" />
+      <workItem from="1585456958337" duration="40624000" />
+      <workItem from="1585735569138" duration="9090000" />
+      <workItem from="1585904731109" duration="2849000" />
+      <workItem from="1585907615188" duration="40000" />
+      <workItem from="1585907710989" duration="2551000" />
+      <workItem from="1585982150957" duration="1655000" />
+      <workItem from="1585984176549" duration="7916000" />
+      <workItem from="1585994837963" duration="1025000" />
+      <workItem from="1585999963972" duration="8175000" />
+      <workItem from="1586051120019" duration="7419000" />
+      <workItem from="1586062782896" duration="853000" />
+      <workItem from="1586064876990" duration="3478000" />
+      <workItem from="1586068366109" duration="17802000" />
+      <workItem from="1586167263646" duration="9135000" />
+      <workItem from="1586236136668" duration="12023000" />
+      <workItem from="1586249915334" duration="9568000" />
+      <workItem from="1586264146539" duration="6404000" />
+      <workItem from="1586318684475" duration="5595000" />
+      <workItem from="1586325637033" duration="14271000" />
+      <workItem from="1586355733337" duration="6786000" />
     </task>
     <task id="LOCAL-00001" summary="增加动态代理练习">
       <created>1585498892800</created>
@@ -496,14 +694,46 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="testCache_test - 2020.04.08 at 22h 48m 59s.xml">
+      <configuration name="testCache.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_test - 2020.04.08 at 22h 49m 39s.xml">
+      <configuration name="testCache.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_test - 2020.04.08 at 22h 51m 51s.xml">
+      <configuration name="testCache.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_test - 2020.04.08 at 22h 53m 20s.xml">
+      <configuration name="testCache.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_testInser - 2020.04.08 at 23h 20m 53s.xml">
+      <configuration name="testCache.testInser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_testInsert - 2020.04.08 at 23h 21m 37s.xml">
+      <configuration name="testCache.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_testInsert - 2020.04.08 at 23h 22m 31s.xml">
+      <configuration name="testCache.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_testInsert - 2020.04.08 at 23h 25m 10s.xml">
+      <configuration name="testCache.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_testInsert - 2020.04.08 at 23h 26m 27s.xml">
+      <configuration name="testCache.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testCache_testInsert - 2020.04.08 at 23h 26m 57s.xml">
+      <configuration name="testCache.testInsert" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92275000" />
+    <option name="totallyTimeSpent" value="219600000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24530831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -512,9 +742,9 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41218132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5184136" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.45661604" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.52060735" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -522,17 +752,17 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.45444685" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.17895879" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.1652452" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
@@ -549,508 +779,496 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/chainPattern/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/designPattern/chainPattern/Main.java</url>
           <line>5</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Mybatis2/MybatisDemo.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/TypeHandler/MyTypeHandler.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/designPattern/ProxyPattern/JDKDenamicProxy/Main.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/CachingExecutor.class</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/JDK/JDK/lib/src.zip!/java.sql/java/sql/PreparedStatement.java</url>
+          <line>77</line>
+          <properties class="java.sql.PreparedStatement" method="executeQuery" />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>userMapper.select(2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/util/PageUtil.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.11/pagehelper-5.1.11.jar!/com/github/pagehelper/PageInfo.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="-113">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Activity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/util/MyPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/ProxyChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="461">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Child.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.11/pagehelper-5.1.11.jar!/com/github/pagehelper/Page.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="-810">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaSe/multithreading/ShareObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#100#226#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/ProxyChild.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/staticProxy2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        <state relative-caret-position="405">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/HelloService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/TestMeta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/session/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/statement/StatementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK/lib/src.zip!/java.sql/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/reflection/MetaObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/mapping/ParameterMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/mapping/BoundSql.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKBookProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        <state relative-caret-position="474">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1395#1396#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+            <element signature="e#1705#1706#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+            <element signature="e#1778#1779#0" expanded="true" />
+            <element signature="e#1809#1810#0" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
+            <element signature="e#1893#1894#0" expanded="true" />
+            <element signature="e#1925#1926#0" expanded="true" />
+            <element signature="e#1976#1977#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+            <element signature="e#2064#2065#0" expanded="true" />
+            <element signature="e#2101#2102#0" expanded="true" />
+            <element signature="e#2134#2135#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2230#2231#0" expanded="true" />
+            <element signature="e#2271#2272#0" expanded="true" />
+            <element signature="e#2308#2309#0" expanded="true" />
+            <element signature="e#2368#2369#0" expanded="true" />
+            <element signature="e#2420#2421#0" expanded="true" />
+            <element signature="e#2490#2491#0" expanded="true" />
+            <element signature="e#2549#2550#0" expanded="true" />
+            <element signature="e#2593#2594#0" expanded="true" />
+            <element signature="e#2631#2632#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Book.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13/junit-4.13.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/mapping/SqlSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/statement/BaseStatementHandler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/RealBook.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="134">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/JDKdenamicProxy.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="151">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/JDKDenamicProxy/Main.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/session/RowBounds.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="70">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Phone.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="53">
+          <caret line="314" selection-start-line="314" selection-end-line="314" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/Main.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/plugin/Plugin.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="152">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProxyPattern/cglibDenamicProxy/MyMethodInterceptor.java">
+    <entry file="jar://D:/JDK/JDK/lib/src.zip!/java.base/java/util/concurrent/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="172">
+          <caret line="122" column="3" lean-forward="true" selection-start-line="122" selection-start-column="3" selection-end-line="122" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/Border.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/builder/StaticSqlSource.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="199">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyPagePlugin2.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="162">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/Aorder.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/session/SqlSession.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="172">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/AbstractDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/GroudBuy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/adapterPattern/AorderAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecoratorPattern/RedDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/BinnaryObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/Matter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        <state relative-caret-position="117">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#158#176#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/AbstractObserver.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/BatchExecutor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="162">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/BinaryObserver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/interceptor/MyPagePlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="87" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="87" />
+        <state relative-caret-position="891">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
           <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/OctalObserver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/pojo/People.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="135">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObserverPattern/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="-486">
+          <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/FileLogger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/MybatisDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="167">
+          <caret line="26" column="94" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="94" />
           <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ErrorLogger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/dao/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="243">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ChainPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/pojo/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="248">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ConsoleLogger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="289">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/cache/testCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="64" />
           <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/AbstractLogger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Framework/Mybatis/util/MybatisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+          <folding>
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/parsing/XPathParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="202" column="19" selection-start-line="202" selection-start-column="19" selection-end-line="202" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/parsing/XNode.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
           <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#3011#3012#0" expanded="true" />
+            <element signature="e#3082#3083#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/BossHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="292">
+          <caret line="405" column="42" lean-forward="true" selection-start-line="405" selection-start-column="42" selection-end-line="405" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/builder/xml/XMLMapperBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="196" column="17" selection-start-line="196" selection-start-column="17" selection-end-line="196" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/SimpleExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/cache/impl/PerpetualCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/PeopleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/mapping/MappedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/cache/Cache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/BaseExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#8773#8774#0" expanded="true" />
+            <element signature="e#8834#8835#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/LeaderHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/Executor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="130">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/executor/CachingExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
           <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ChainHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/ManagerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chainPattern/AbstractHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#4672#4673#0" expanded="true" />
+            <element signature="e#4726#4727#0" expanded="true" />
           </folding>
         </state>
       </provider>
